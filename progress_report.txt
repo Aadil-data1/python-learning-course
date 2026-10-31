@@ -1,0 +1,6 @@
+Name: Jacob
+Total Marks: 390
+Average: 78.0
+Highest Marks: 91
+Lowest Marks: 64
+Overall Result: pass

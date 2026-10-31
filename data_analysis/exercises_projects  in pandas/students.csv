@@ -1,0 +1,511 @@
+student_id,name,gender,age,country,city,math,science,english,enrolled_on
+1,Sana Brown,Male,23.0,USA,Austin,73.1,74.1,43.4,2022-01-31
+2,Priya Singh,Female,17.0,Brazil,Rio de Janeiro,,76.6,75.0,2022-09-06
+3,John Patel,Male,23.0,Germany,Munich,68.0,61.9,70.9,2022-04-03
+4,Chen Smith,Female,17.0,Pakistan,Lahore,63.0,79.1,71.5,2022-03-26
+5,John Smith,M,17.0,Pakistan,Lahore,42.7,81.7,79.1,2022-05-25
+6,Priya Lee,Male,18.0,Brazil,Sao Paulo,77.7,86.1,71.3,2022-06-21
+7,Emma Singh,Female,21.0,USA,Austin,68.6,92.9,60.6,2024-01-25
+8,Priya Ahmed,F,22.0,Germany,Berlin,57.8,55.9,70.6,2023-07-29
+9,Yusuf Khan,Male,20.0,UK,Leeds,71.5,68.2,72.7,2022-01-28
+10,  Chen Wang  ,Female,18.0,USA,Austin,63.0,68.2,73.1,2023-07-20
+11,Fatima Ahmed,M,18.0,Canada,Toronto,63.7,66.6,73.6,2022-05-04
+12,Taha Singh,Male,24.0,Japan,Osaka,77.3,58.9,82.4,2023-01-14
+13,John Garcia,Male,25.0,Germany,Berlin,,47.2,61.1,2022-02-04
+14,Yusuf Ahmed,Male,23.0,Brazil,Rio de Janeiro,82.6,69.3,73.8,2022-03-23
+15,Yusuf Rossi,F,17.0,Germany,Berlin,53.2,57.2,84.9,2022-04-30
+16,Amira Ahmed,Male,24.0,Brazil,Sao Paulo,62.0,69.2,54.7,2023-01-26
+17,Taha Smith,Male,23.0,Canada,Vancouver,93.1,56.9,73.8,2023-02-21
+18,Amira Ahmed,Male,21.0,UK,London,83.5,52.6,66.1,2022-11-14
+19,Ravi Ahmed,Male,18.0,Brazil,Rio de Janeiro,71.2,71.3,68.3,2023-07-13
+20,Amira Khan,M,25.0,Pakistan,Lahore,58.7,70.1,63.0,2023-10-11
+21,Noor Khan,Male,20.0,Canada,Toronto,63.6,76.1,70.3,2023-10-18
+22,Taha Ahmed,Female,17.0,India,Mumbai,70.9,98.6,90.4,2023-06-06
+23,Emma Khan,Female,,UK,London,70.5,71.9,59.4,2023-05-07
+24,Ravi Wang,F,20.0,Japan,Tokyo,68.9,74.8,60.3,2023-03-19
+25,Chen Brown,Male,17.0,Brazil,Sao Paulo,69.6,52.9,59.0,2022-08-03
+26,Emma Garcia,F,19.0,Germany,Munich,67.4,50.0,89.3,2023-03-15
+27,Emma Garcia,M,21.0,Pakistan,Karachi,52.7,90.2,67.4,2022-01-10
+28,Priya Wang,Male,25.0,Brazil,Rio de Janeiro,63.8,55.1,71.7,2024-05-19
+29,Omar Singh,M,17.0,Canada,Toronto,81.0,53.4,68.0,2022-11-30
+30,Omar Singh,F,22.0,Pakistan,Lahore,53.6,67.5,62.6,2023-11-12
+31,Amira Khan,Male,25.0,Pakistan,Lahore,67.7,66.7,69.6,2024-05-11
+32,Chen Ahmed,F,24.0,UK,London,60.2,55.4,96.6,2023-03-24
+33,Yusuf Smith,Female,25.0,USA,Austin,71.3,63.7,85.9,2024-02-15
+34,Maria Smith,M,18.0,Canada,Toronto,65.3,85.2,63.5,2023-03-08
+35,Liam Wang,F,24.0,Japan,Tokyo,87.7,56.7,78.5,2022-04-30
+36,Priya Patel,Female,25.0,USA,Austin,76.1,48.5,63.7,2022-01-24
+37,John Khan,F,,Brazil,Rio de Janeiro,54.3,81.2,54.2,2022-05-03
+38,Ali Garcia,Female,21.0,Brazil,Sao Paulo,78.1,74.9,82.2,2024-04-28
+39,Yusuf Wang,M,21.0,India,Mumbai,60.7,59.3,83.6,2023-03-04
+40,Yusuf Ahmed,M,21.0,Germany,Berlin,63.1,45.8,82.5,2022-10-15
+41,Sana Singh,Male,19.0,UK,London,73.8,57.6,67.3,2023-02-06
+42,Sana Khan,Female,25.0,Brazil,Sao Paulo,64.1,67.2,70.3,2022-08-19
+43,Ravi Rossi,Female,25.0,Germany,Berlin,80.7,84.3,79.5,2024-02-23
+44,Noor Khan,Male,20.0,India,Delhi,60.7,53.5,75.9,2024-06-18
+45,Emma Singh,Male,24.0,USA,New York,62.6,66.8,68.1,2022-03-18
+46,  Emma Rossi  ,Female,20.0,Japan,Osaka,62.1,77.5,55.8,2023-10-09
+47,Maria Rossi,Male,24.0,Pakistan,Lahore,63.2,34.7,73.1,2022-10-30
+48,John Singh,Male,22.0,Japan,Osaka,83.2,82.5,82.8,2022-02-12
+49,Amira Lee,M,21.0,Germany,Berlin,77.5,51.4,60.0,2024-04-09
+50,Liam Brown,M,18.0,Brazil,Rio de Janeiro,90.5,72.6,78.4,2022-02-25
+51,Liam Lee,M,22.0,Brazil,Rio de Janeiro,97.2,71.5,75.3,2022-07-05
+52,Omar Ahmed,Female,19.0,UK,London,57.6,83.2,79.5,2022-01-23
+53,Emma Wang,F,18.0,India,Delhi,70.8,75.7,80.7,2023-03-01
+54,John Wang,Female,18.0,Pakistan,Karachi,55.9,34.7,65.1,2023-06-24
+55,Priya Singh,Male,25.0,Pakistan,Lahore,60.7,57.0,55.8,2022-10-16
+56,Emma Patel,Male,17.0,USA,New York,62.4,69.9,66.7,2022-03-06
+57,Omar Garcia,M,24.0,Canada,Vancouver,,65.3,80.9,2022-04-15
+58,Noor Brown,Male,24.0,UK,London,57.4,74.7,66.6,2024-04-20
+59,Maria Smith,Female,17.0,Germany,Berlin,68.3,79.1,65.1,2023-12-27
+60,Ali Ahmed,F,22.0,Germany,Berlin,55.4,76.5,53.8,2024-04-23
+61,Ravi Patel,Male,22.0,Japan,Tokyo,80.1,65.0,89.5,2023-04-23
+62,Taha Patel,Male,20.0,Germany,Berlin,59.0,42.2,80.3,2023-05-07
+63,Liam Smith,F,23.0,India,Mumbai,100.0,61.6,79.7,2023-12-09
+64,Fatima Garcia,Female,20.0,Japan,Tokyo,64.6,73.8,81.7,2023-07-09
+65,Chen Garcia,Male,20.0,Pakistan,Lahore,70.9,52.7,77.8,2023-01-28
+66,Omar Garcia,F,20.0,India,Delhi,54.5,76.8,69.6,2022-09-20
+67,Ravi Garcia,F,,Japan,Osaka,,80.7,70.4,2023-03-13
+68,Taha Brown,Female,22.0,India,Delhi,83.4,69.8,67.7,2022-02-27
+69,Maria Smith,M,,USA,New York,73.6,25.1,98.3,2022-06-23
+70,Omar Rossi,Male,25.0,Pakistan,Karachi,53.8,50.1,77.6,2023-10-26
+71,Noor Rossi,Male,24.0,Brazil,Sao Paulo,72.5,94.4,67.4,2024-02-21
+72,Emma Patel,Female,25.0,UK,London,56.5,60.3,76.7,2022-04-02
+73,Omar Garcia,Male,23.0,Pakistan,Karachi,87.5,40.2,61.9,2022-03-29
+74,Ravi Wang,M,20.0,UK,Leeds,,85.3,87.0,2022-03-19
+75,Priya Singh,F,23.0,Germany,Munich,71.1,68.2,65.4,2023-12-14
+76,Chen Brown,Male,19.0,Pakistan,Lahore,40.8,83.5,77.0,2022-10-08
+77,Maria Singh,Female,,India,Mumbai,,71.9,82.7,2022-10-22
+78,Amira Wang,Male,21.0,UK,Leeds,78.3,74.4,75.8,2022-01-12
+79,Omar Brown,F,25.0,Canada,Toronto,84.6,73.1,72.9,2024-05-25
+80,Sana Smith,Male,22.0,Germany,Berlin,,77.8,72.1,2023-01-26
+81,Taha Lee,M,20.0,Japan,Tokyo,50.9,99.9,71.4,2023-12-19
+82,Ali Smith,Female,21.0,Pakistan,Lahore,73.6,81.6,66.2,2023-09-29
+83,Amira Brown,Female,19.0,UK,London,82.2,45.9,67.5,2022-05-08
+84,Chen Singh,M,22.0,Brazil,Sao Paulo,50.1,74.3,86.8,2023-12-23
+85,Yusuf Ahmed,M,20.0,Germany,Berlin,69.9,84.0,70.9,2023-05-11
+86,Priya Brown,Female,21.0,Germany,Berlin,73.3,84.8,64.1,2023-06-28
+87,Liam Khan,M,20.0,USA,New York,66.4,62.0,66.8,2022-06-30
+88,Liam Lee,F,19.0,India,Mumbai,47.8,84.3,83.0,2024-02-02
+89,Amira Khan,Female,25.0,Brazil,Sao Paulo,66.1,81.0,78.8,2024-04-18
+90,Chen Rossi,Female,20.0,Brazil,Sao Paulo,66.1,100.0,77.6,2023-01-01
+91,Noor Ahmed,Male,17.0,Pakistan,Karachi,68.2,57.5,69.4,2022-03-25
+92,Priya Rossi,M,20.0,Brazil,Sao Paulo,63.2,60.9,77.7,2024-02-03
+93,Taha Singh,Female,21.0,Brazil,Rio de Janeiro,64.7,63.7,65.6,2024-03-09
+94,Ravi Wang,Female,17.0,Pakistan,Karachi,69.5,61.1,69.4,2023-04-01
+95,  Ravi Lee  ,Male,19.0,Japan,Osaka,75.3,55.5,81.7,2023-06-06
+96,Priya Lee,F,18.0,India,Delhi,66.3,29.3,80.7,2022-07-20
+97,Yusuf Rossi,Female,21.0,UK,London,65.1,61.9,62.2,2022-03-02
+98,Sana Smith,M,23.0,Germany,Berlin,71.1,73.2,63.4,2024-04-29
+99,Noor Wang,Male,25.0,Germany,Berlin,46.9,61.1,73.1,2023-03-11
+100,Ali Khan,F,20.0,UK,London,75.7,95.1,89.3,2022-09-05
+101,Chen Brown,Male,24.0,Brazil,Sao Paulo,70.0,68.2,52.8,2023-09-16
+102,  Taha Ahmed  ,Male,18.0,UK,London,70.5,86.1,74.8,2022-01-24
+103,  Sana Wang  ,F,24.0,Brazil,Sao Paulo,81.5,71.7,58.2,2022-03-13
+104,Ali Wang,F,22.0,USA,New York,46.6,79.6,65.7,2022-08-07
+105,Chen Patel,Male,23.0,Brazil,Rio de Janeiro,46.3,71.9,68.4,2023-02-10
+106,Noor Wang,Female,23.0,Brazil,Sao Paulo,73.3,87.2,67.8,2022-11-27
+107,Noor Lee,M,21.0,Brazil,Rio de Janeiro,69.9,68.8,66.7,2022-06-18
+108,Yusuf Lee,F,19.0,Germany,Berlin,,74.9,72.1,2022-11-13
+109,Chen Patel,Female,21.0,Pakistan,Lahore,64.5,73.1,66.6,2022-10-28
+110,Maria Wang,Female,24.0,Germany,Berlin,,64.0,57.4,2023-04-18
+111,Taha Rossi,M,25.0,India,Delhi,81.2,73.7,79.8,2023-05-22
+112,Emma Ahmed,M,,Brazil,Rio de Janeiro,75.8,99.3,79.5,2024-03-05
+113,Omar Ahmed,M,18.0,Canada,Toronto,66.9,64.2,80.4,2023-12-28
+114,Noor Khan,Female,22.0,Pakistan,Lahore,44.7,73.9,56.6,2022-09-21
+115,Chen Brown,Male,17.0,Canada,Toronto,79.2,85.6,75.0,2024-03-23
+116,Noor Patel,F,23.0,Canada,Toronto,84.7,84.0,78.8,2023-04-14
+117,Yusuf Lee,F,25.0,USA,Austin,77.7,68.2,61.7,2022-06-18
+118,Maria Brown,M,17.0,UK,Leeds,59.4,34.6,72.1,2022-11-03
+119,Noor Garcia,Male,22.0,UK,London,78.1,75.2,70.8,2023-10-30
+120,Omar Singh,Male,25.0,USA,Austin,80.3,36.9,90.4,2024-01-10
+121,Emma Lee,M,24.0,Pakistan,Lahore,,88.6,91.2,2022-12-03
+122,Liam Smith,Male,20.0,Germany,Munich,59.5,70.4,55.4,2022-05-22
+123,Omar Garcia,F,17.0,Germany,Berlin,67.3,82.0,96.9,2022-06-22
+124,Chen Garcia,Female,25.0,Pakistan,Lahore,79.0,55.4,62.8,2022-04-04
+125,John Ahmed,M,25.0,Brazil,Sao Paulo,70.7,46.3,81.8,2023-09-21
+126,Priya Ahmed,F,,Canada,Vancouver,56.6,71.7,81.7,2023-03-29
+127,Sana Rossi,Female,25.0,USA,Austin,75.0,67.5,62.0,2023-02-11
+128,Amira Patel,Female,17.0,Brazil,Rio de Janeiro,76.9,61.1,76.9,2023-08-28
+129,Omar Garcia,M,22.0,Canada,Vancouver,71.1,69.2,70.9,2024-01-16
+130,Sana Lee,Female,17.0,Germany,Munich,72.6,100.0,77.5,2023-12-17
+131,Taha Wang,Female,25.0,Canada,Toronto,66.9,79.7,74.3,2022-05-04
+132,Priya Rossi,M,23.0,Canada,Toronto,87.7,82.7,84.0,2023-06-15
+133,Fatima Lee,F,25.0,USA,Austin,59.2,79.8,72.8,2024-03-05
+134,Liam Patel,Female,22.0,Canada,Toronto,63.0,88.7,70.3,2023-11-28
+135,Taha Garcia,Male,17.0,Brazil,Rio de Janeiro,70.1,65.3,83.0,2022-10-24
+136,Liam Rossi,Female,,India,Mumbai,80.5,39.2,77.8,2022-12-20
+137,Ali Lee,Female,20.0,Canada,Vancouver,52.0,65.4,79.3,2024-03-12
+138,Emma Rossi,Male,23.0,USA,New York,54.3,79.4,65.4,2022-01-30
+139,Ravi Ahmed,Male,18.0,India,Mumbai,45.5,54.4,61.5,2023-04-18
+140,John Singh,M,24.0,Pakistan,Karachi,,65.5,66.3,2022-04-15
+141,Yusuf Brown,Female,19.0,Japan,Tokyo,56.6,58.3,65.8,2024-03-16
+142,Sana Ahmed,F,21.0,UK,London,65.4,89.0,79.9,2022-02-04
+143,Chen Wang,Male,18.0,India,Mumbai,77.9,78.5,81.8,2022-01-22
+144,Ali Brown,Male,21.0,Pakistan,Lahore,62.3,77.1,70.4,2022-10-24
+145,Amira Khan,M,21.0,Japan,Osaka,,76.7,86.3,2022-06-30
+146,Sana Patel,F,17.0,Brazil,Rio de Janeiro,66.4,67.5,85.7,2023-03-22
+147,Noor Singh,Male,,USA,Austin,78.1,70.8,74.4,2022-09-27
+148,Ravi Smith,Male,24.0,UK,Leeds,75.7,51.4,63.8,2022-11-17
+149,Priya Patel,Male,25.0,Brazil,Rio de Janeiro,61.7,37.4,87.8,2023-05-24
+150,John Patel,Female,19.0,USA,New York,68.0,70.1,71.4,2023-05-20
+151,Ali Garcia,Female,24.0,Brazil,Rio de Janeiro,82.5,72.5,73.3,2024-04-21
+152,Chen Rossi,Male,24.0,India,Mumbai,74.7,84.9,68.6,2023-03-09
+153,Omar Lee,Male,25.0,Japan,Tokyo,53.2,90.0,63.1,2023-05-23
+154,Amira Ahmed,Female,20.0,India,Delhi,77.9,90.0,57.3,2023-09-03
+155,Fatima Rossi,F,24.0,Pakistan,Karachi,57.0,54.0,78.3,2022-06-06
+156,Ali Singh,M,,Germany,Munich,87.0,63.1,64.2,2023-08-24
+157,Noor Smith,Female,17.0,UK,Leeds,82.3,74.7,100.0,2024-02-15
+158,Omar Singh,Male,19.0,Canada,Vancouver,73.5,100.0,61.1,2022-10-14
+159,Ali Ahmed,Male,23.0,Canada,Vancouver,71.9,88.7,59.4,2022-06-10
+160,Liam Rossi,Male,18.0,Brazil,Rio de Janeiro,67.5,83.7,77.1,2022-11-08
+161,Ali Brown,M,20.0,Japan,Tokyo,,62.6,87.3,2022-09-05
+162,Taha Brown,F,23.0,Germany,Munich,65.6,55.6,72.6,2023-06-11
+163,Liam Khan,F,18.0,Pakistan,Karachi,,79.0,77.7,2024-02-17
+164,Noor Singh,F,21.0,Pakistan,Karachi,80.5,52.6,53.6,2023-06-21
+165,Emma Khan,F,18.0,Pakistan,Karachi,63.3,64.7,65.2,2022-04-23
+166,Maria Smith,F,21.0,Brazil,Sao Paulo,62.6,66.4,61.3,2022-10-11
+167,Ravi Ahmed,Male,19.0,India,Delhi,55.7,90.3,53.0,2023-09-13
+168,Emma Lee,Male,25.0,UK,London,57.2,63.0,73.2,2022-10-25
+169,Emma Ahmed,Female,17.0,India,Delhi,48.1,33.9,49.6,2023-06-12
+170,Ali Rossi,Female,25.0,USA,Austin,78.8,75.1,58.8,2023-09-17
+171,John Brown,Male,24.0,USA,Austin,91.7,58.2,66.6,2022-10-24
+172,Yusuf Khan,F,24.0,USA,Austin,87.1,68.6,63.7,2023-08-06
+173,Ali Khan,M,24.0,Brazil,Sao Paulo,50.5,66.8,76.0,2022-12-25
+174,Taha Khan,Female,18.0,Germany,Berlin,78.7,64.2,75.1,2022-05-02
+175,Emma Brown,Male,25.0,Germany,Munich,87.1,79.1,80.9,2022-12-01
+176,Priya Singh,Male,22.0,Pakistan,Lahore,64.5,46.5,79.5,2023-02-01
+177,Priya Smith,Male,25.0,Germany,Munich,71.2,60.8,83.4,2022-01-03
+178,John Singh,F,24.0,UK,London,45.9,77.6,72.0,2024-03-14
+179,Maria Khan,Female,22.0,Japan,Tokyo,73.2,59.4,75.0,2023-04-21
+180,Noor Singh,M,20.0,Canada,Toronto,57.2,45.5,77.1,2022-02-02
+181,Priya Rossi,Male,18.0,Japan,Tokyo,72.4,77.4,73.4,2024-02-21
+182,Sana Lee,Female,17.0,UK,London,51.3,83.7,68.0,2024-02-09
+183,Emma Brown,Female,20.0,Pakistan,Lahore,76.5,67.4,68.7,2022-01-11
+184,Emma Singh,M,24.0,Germany,Berlin,82.3,40.5,63.8,2022-05-27
+185,Ravi Khan,M,21.0,Pakistan,Lahore,60.6,77.9,76.2,2022-11-24
+186,Ravi Smith,Male,21.0,Pakistan,Lahore,56.4,44.8,71.1,2023-04-02
+187,Sana Ahmed,F,19.0,UK,Leeds,44.1,72.3,65.4,2023-10-16
+188,Noor Wang,Male,,Pakistan,Karachi,66.8,55.6,65.4,2023-01-17
+189,Amira Lee,F,22.0,UK,London,63.0,51.8,59.9,2023-07-05
+190,Amira Brown,Male,25.0,India,Delhi,51.4,61.8,81.8,2022-01-10
+191,Sana Singh,Male,23.0,Germany,Berlin,75.4,65.4,72.8,2023-08-16
+192,Ravi Ahmed,F,22.0,Germany,Munich,64.6,59.0,63.4,2024-04-03
+193,Emma Lee,Male,25.0,Canada,Vancouver,57.1,76.2,80.1,2023-04-19
+194,Ali Ahmed,Female,20.0,India,Mumbai,63.3,61.8,66.4,2023-02-14
+195,Ali Smith,Female,25.0,Japan,Osaka,82.9,81.7,57.9,2022-09-25
+196,Sana Lee,Male,20.0,USA,New York,77.2,71.9,82.2,2024-05-08
+197,  Chen Rossi  ,M,18.0,India,Mumbai,68.4,58.2,66.6,2022-01-30
+198,Omar Brown,F,20.0,USA,Austin,77.4,55.9,67.9,2022-09-16
+199,Chen Khan,F,18.0,India,Delhi,56.1,44.9,72.4,2022-05-05
+200,Sana Brown,Female,18.0,Japan,Tokyo,70.4,72.1,83.4,2024-02-19
+201,Ali Khan,Female,,India,Delhi,71.8,63.0,72.2,2023-03-11
+202,Maria Singh,Male,24.0,Japan,Osaka,64.4,34.8,60.0,2024-04-10
+203,Ravi Lee,Male,18.0,Pakistan,Lahore,75.2,60.5,77.4,2023-08-22
+204,Ravi Ahmed,Male,24.0,Germany,Berlin,60.6,55.4,67.2,2023-05-17
+205,  Fatima Khan  ,F,17.0,Pakistan,Karachi,76.1,90.1,90.9,2023-04-11
+206,Omar Ahmed,F,,India,Delhi,76.6,44.2,72.0,2022-07-02
+207,Fatima Rossi,M,23.0,Brazil,Rio de Janeiro,,47.8,49.6,2023-05-21
+208,Amira Patel,Female,19.0,Japan,Osaka,84.3,83.5,75.6,2023-09-09
+209,  Amira Lee  ,Female,23.0,India,Mumbai,33.4,87.0,91.4,2024-05-18
+210,Maria Brown,Female,24.0,Brazil,Sao Paulo,62.6,57.6,87.8,2023-05-10
+211,Yusuf Wang,Female,17.0,India,Delhi,82.3,59.2,90.3,2024-04-24
+212,Ravi Ahmed,Female,17.0,Germany,Berlin,66.2,76.6,61.8,2024-04-30
+213,Maria Rossi,Male,25.0,Brazil,Sao Paulo,52.4,35.4,81.1,2023-04-16
+214,Amira Garcia,Male,,Pakistan,Lahore,56.9,41.9,64.8,2023-01-31
+215,Ravi Wang,F,21.0,Germany,Munich,82.3,64.1,74.2,2022-05-09
+216,Amira Brown,Female,21.0,India,Mumbai,,89.7,59.3,2022-08-30
+217,Maria Brown,F,20.0,USA,New York,83.5,61.9,65.6,2024-03-02
+218,Ravi Rossi,Male,23.0,USA,New York,69.3,69.4,65.2,2022-05-05
+219,Taha Ahmed,Female,22.0,Pakistan,Lahore,,83.9,81.0,2022-12-24
+220,Ravi Wang,Male,18.0,Japan,Tokyo,63.0,97.5,80.0,2023-09-21
+221,Noor Patel,Male,22.0,UK,Leeds,57.8,59.9,74.8,2022-08-05
+222,Yusuf Patel,Male,23.0,Pakistan,Karachi,80.4,67.8,58.5,2024-05-26
+223,Sana Ahmed,Male,18.0,Germany,Munich,78.8,93.5,68.9,2023-08-08
+224,Priya Ahmed,F,20.0,UK,Leeds,49.4,46.7,64.5,2022-01-26
+225,Priya Smith,Female,24.0,Germany,Munich,65.2,82.4,80.7,2022-08-11
+226,Sana Garcia,M,22.0,India,Delhi,59.6,53.7,83.8,2023-10-29
+227,Liam Patel,Female,18.0,Brazil,Rio de Janeiro,85.5,69.4,82.6,2024-02-16
+228,  Omar Brown  ,Female,17.0,Canada,Toronto,53.8,64.6,64.4,2024-04-14
+229,Ravi Brown,Female,22.0,Canada,Vancouver,,54.6,44.6,2024-02-06
+230,Priya Patel,Male,21.0,UK,Leeds,,54.2,54.3,2022-03-09
+231,Taha Patel,F,25.0,Pakistan,Lahore,56.1,71.9,86.2,2023-10-19
+232,Emma Smith,F,21.0,Brazil,Sao Paulo,61.9,81.9,68.0,2022-04-10
+233,Priya Wang,M,25.0,USA,Austin,60.4,66.2,64.5,2022-03-10
+234,Liam Garcia,Female,18.0,Brazil,Sao Paulo,54.7,69.0,88.4,2023-09-15
+235,Yusuf Khan,Male,21.0,Pakistan,Lahore,71.1,76.0,84.7,2023-03-07
+236,John Patel,F,18.0,Germany,Munich,,54.4,72.2,2023-08-07
+237,Chen Patel,Female,22.0,Germany,Berlin,43.8,78.4,69.1,2024-02-06
+238,Taha Smith,Male,18.0,Pakistan,Lahore,65.4,79.5,70.7,2022-03-03
+239,Sana Wang,Female,21.0,India,Delhi,48.4,100.0,74.3,2023-04-20
+240,Fatima Wang,M,20.0,Germany,Berlin,61.0,62.7,88.0,2024-01-21
+241,Amira Lee,M,18.0,UK,London,59.1,61.6,76.2,2023-02-01
+242,  Amira Brown  ,M,17.0,Canada,Toronto,59.5,78.8,79.3,2023-04-17
+243,Amira Brown,M,21.0,USA,Austin,94.0,79.5,83.7,2023-03-25
+244,Liam Garcia,Male,25.0,Germany,Munich,70.7,60.5,60.3,2024-03-27
+245,Maria Lee,F,18.0,Germany,Munich,72.9,62.4,79.5,2022-02-14
+246,Fatima Wang,Female,20.0,USA,Austin,48.7,75.6,69.1,2024-03-01
+247,Taha Patel,M,19.0,Brazil,Rio de Janeiro,62.2,56.4,46.8,2024-01-05
+248,Chen Brown,Male,24.0,Pakistan,Karachi,72.6,62.3,50.7,2024-01-02
+249,Chen Garcia,F,20.0,Brazil,Sao Paulo,57.7,69.3,61.8,2023-01-07
+250,Priya Wang,Male,25.0,USA,New York,80.9,81.9,77.3,2023-04-10
+251,Emma Lee,Male,19.0,UK,London,55.6,59.5,73.1,2022-11-29
+252,Amira Singh,Female,17.0,Pakistan,Lahore,66.6,42.2,73.8,2022-08-15
+253,Sana Rossi,Male,22.0,UK,London,63.0,41.2,91.5,2024-02-27
+254,Emma Wang,Male,22.0,India,Mumbai,72.0,50.4,59.3,2023-04-01
+255,Omar Wang,M,25.0,Germany,Berlin,62.3,49.6,71.7,2023-10-14
+256,John Lee,Female,24.0,UK,London,66.7,65.8,75.0,2022-04-01
+257,Maria Garcia,F,24.0,Germany,Berlin,67.2,51.4,64.6,2023-12-12
+258,Chen Singh,Female,22.0,USA,New York,61.2,58.2,72.3,2023-08-16
+259,Fatima Patel,M,20.0,UK,Leeds,75.8,57.2,56.0,2024-06-16
+260,Ali Ahmed,Female,20.0,Canada,Toronto,,61.8,86.1,2022-05-01
+261,Ali Khan,M,18.0,Brazil,Sao Paulo,68.9,86.5,65.2,2023-05-02
+262,Yusuf Singh,Female,20.0,UK,London,,77.3,92.3,2023-04-06
+263,Emma Khan,Female,20.0,India,Delhi,79.6,68.2,71.7,2023-04-30
+264,Sana Smith,F,17.0,Japan,Osaka,67.2,61.5,82.3,2022-02-18
+265,Amira Garcia,Female,18.0,Japan,Osaka,66.3,61.9,71.5,2023-03-02
+266,  Chen Ahmed  ,Male,21.0,Canada,Vancouver,71.3,72.6,71.7,2022-09-27
+267,Noor Garcia,M,20.0,Pakistan,Lahore,90.4,76.2,66.2,2023-07-10
+268,Ali Lee,F,25.0,India,Delhi,53.9,55.3,73.2,2022-07-28
+269,Yusuf Khan,Male,21.0,Canada,Toronto,79.2,68.5,75.2,2023-01-27
+270,Ravi Singh,Female,25.0,Canada,Vancouver,47.3,39.6,64.2,2023-07-13
+271,Noor Singh,F,22.0,India,Mumbai,72.6,71.0,70.7,2022-02-27
+272,Ravi Garcia,M,17.0,USA,New York,88.9,78.7,65.9,2023-12-10
+273,Noor Ahmed,F,18.0,UK,Leeds,75.9,64.1,95.0,2023-10-07
+274,Maria Brown,Female,23.0,Japan,Tokyo,72.0,93.4,71.1,2022-02-21
+275,Noor Ahmed,M,21.0,Pakistan,Karachi,63.3,55.7,87.5,2022-02-28
+276,Chen Garcia,Female,19.0,Pakistan,Lahore,70.4,71.0,70.0,2024-02-05
+277,Chen Rossi,F,21.0,Pakistan,Karachi,,67.5,74.6,2022-09-12
+278,Sana Rossi,Female,25.0,Brazil,Sao Paulo,60.6,66.6,58.8,2024-02-14
+279,Ravi Lee,M,20.0,USA,Austin,66.5,66.4,67.5,2023-03-26
+280,Ravi Garcia,Female,17.0,USA,Austin,,69.5,74.1,2022-11-05
+281,  Omar Brown  ,Female,19.0,India,Mumbai,60.8,79.9,87.9,2022-09-04
+282,Taha Lee,M,25.0,Pakistan,Lahore,60.3,87.3,74.2,2023-08-17
+283,  Omar Garcia  ,Female,23.0,Germany,Munich,53.7,68.0,85.8,2022-04-09
+284,Yusuf Brown,F,24.0,Pakistan,Karachi,74.7,79.4,78.4,2022-12-29
+285,Fatima Khan,Female,25.0,Pakistan,Karachi,76.5,58.2,88.3,2022-11-08
+286,Noor Smith,M,18.0,Japan,Tokyo,,78.7,71.4,2022-05-19
+287,Omar Wang,Female,19.0,UK,London,81.6,57.3,95.9,2022-11-14
+288,Chen Ahmed,Female,17.0,Canada,Toronto,71.1,83.3,67.1,2023-04-21
+289,Noor Ahmed,Female,,Canada,Toronto,74.7,98.9,64.3,2023-09-02
+290,  Ravi Singh  ,Male,24.0,Pakistan,Karachi,73.6,66.3,59.9,2022-03-19
+291,Yusuf Rossi,Male,25.0,Brazil,Sao Paulo,68.9,37.3,95.3,2024-02-25
+292,Priya Wang,M,18.0,India,Mumbai,,60.3,80.2,2024-03-01
+293,Maria Singh,M,23.0,Japan,Tokyo,96.6,85.2,68.7,2023-09-15
+294,Emma Rossi,M,21.0,India,Mumbai,64.6,75.7,84.5,2024-04-11
+295,Liam Ahmed,Male,,Canada,Toronto,62.0,71.5,78.9,2023-01-21
+296,Chen Patel,Female,25.0,Canada,Vancouver,75.2,82.1,91.7,2024-01-10
+297,Emma Garcia,Male,24.0,Brazil,Sao Paulo,73.0,74.8,56.5,2023-10-17
+298,John Khan,M,22.0,Pakistan,Lahore,53.1,85.0,69.3,2023-05-22
+299,Emma Lee,F,23.0,India,Delhi,83.5,80.9,67.4,2022-06-11
+300,Ali Patel,Male,20.0,USA,Austin,68.9,89.3,52.3,2023-05-17
+301,Chen Patel,M,24.0,India,Delhi,56.7,73.0,82.6,2024-03-22
+302,Yusuf Ahmed,Male,21.0,Brazil,Sao Paulo,84.3,80.7,69.3,2024-06-05
+303,John Ahmed,Male,25.0,USA,Austin,77.5,63.7,79.4,2023-02-08
+304,Maria Rossi,Male,17.0,Japan,Tokyo,54.8,59.6,95.6,2022-08-12
+305,Priya Khan,Male,18.0,Canada,Toronto,91.3,91.9,68.5,2023-11-04
+306,Liam Smith,M,25.0,UK,London,77.9,71.0,67.8,2022-03-10
+307,Taha Smith,F,19.0,India,Mumbai,69.9,79.3,73.2,2022-05-16
+308,Taha Patel,Male,19.0,Canada,Toronto,89.1,69.7,81.9,2023-05-21
+309,Priya Wang,Female,24.0,India,Mumbai,71.9,59.8,66.3,2024-06-10
+310,Noor Patel,M,,USA,Austin,69.7,68.2,65.7,2022-10-23
+311,Ali Khan,F,21.0,Germany,Munich,62.1,88.1,82.6,2023-02-03
+312,John Smith,M,,Germany,Berlin,77.0,75.8,75.8,2022-10-18
+313,Emma Singh,Male,18.0,USA,Austin,75.7,44.0,51.6,2023-02-01
+314,Emma Brown,M,25.0,India,Mumbai,70.2,65.0,59.7,2022-01-07
+315,Amira Brown,Female,18.0,UK,London,60.5,93.0,87.0,2023-06-20
+316,Ravi Brown,F,17.0,Germany,Munich,71.6,65.0,76.0,2023-06-21
+317,Omar Lee,Female,23.0,Germany,Munich,69.2,42.8,64.4,2022-10-12
+318,Liam Khan,M,24.0,Germany,Berlin,54.0,94.5,70.3,2022-08-26
+319,Noor Garcia,Male,18.0,Japan,Tokyo,,77.6,72.1,2023-11-17
+320,Omar Wang,Female,23.0,Brazil,Sao Paulo,76.8,67.0,79.4,2022-06-19
+321,Yusuf Garcia,F,21.0,India,Mumbai,38.8,62.8,58.4,2022-02-12
+322,Yusuf Singh,M,24.0,USA,New York,72.5,83.2,63.6,2022-02-06
+323,John Patel,Female,18.0,Canada,Vancouver,,60.4,74.7,2024-03-04
+324,Chen Lee,F,25.0,Japan,Osaka,85.7,84.1,71.0,2022-11-24
+325,Noor Singh,F,22.0,Japan,Tokyo,64.1,75.6,77.7,2022-04-02
+326,Fatima Wang,Female,24.0,UK,Leeds,77.9,71.4,59.7,2024-03-02
+327,Ravi Rossi,Female,20.0,UK,London,65.2,70.0,75.6,2022-05-14
+328,John Wang,Female,25.0,USA,New York,71.4,65.6,82.9,2022-10-31
+329,Sana Singh,M,22.0,UK,London,,82.6,76.9,2022-01-19
+330,Fatima Garcia,Female,18.0,Canada,Vancouver,64.4,55.9,73.4,2023-09-04
+331,Amira Patel,Male,25.0,Canada,Vancouver,82.0,45.3,71.0,2023-09-22
+332,Emma Wang,F,24.0,India,Delhi,58.1,76.6,63.7,2023-11-12
+333,Chen Ahmed,F,19.0,India,Mumbai,73.5,76.8,71.3,2022-08-25
+334,Ali Garcia,F,21.0,Brazil,Rio de Janeiro,81.1,74.7,84.6,2022-10-23
+335,Priya Rossi,F,20.0,Pakistan,Karachi,77.9,73.7,70.8,2024-04-24
+336,Liam Brown,M,21.0,Brazil,Sao Paulo,,63.5,63.1,2024-01-10
+337,Fatima Ahmed,M,25.0,Japan,Osaka,60.8,79.0,67.1,2022-02-03
+338,  Ali Garcia  ,M,25.0,India,Mumbai,53.5,67.4,74.0,2023-09-15
+339,John Ahmed,Female,18.0,UK,Leeds,58.1,61.2,68.3,2024-01-02
+340,Maria Khan,Female,25.0,Japan,Osaka,77.9,63.6,76.9,2023-05-19
+341,Liam Rossi,Male,20.0,Germany,Munich,76.0,96.3,77.2,2023-07-30
+342,Noor Patel,M,23.0,India,Mumbai,71.2,43.7,80.9,2022-01-01
+343,Ravi Garcia,Male,23.0,Canada,Toronto,56.5,75.0,86.2,2022-01-28
+344,Taha Wang,Male,21.0,Canada,Vancouver,79.2,44.5,82.0,2022-02-01
+345,Amira Khan,Female,21.0,Japan,Osaka,55.3,66.5,62.7,2022-05-24
+346,Ravi Smith,Female,21.0,India,Delhi,83.9,61.9,63.0,2024-06-10
+347,Taha Lee,Male,24.0,Japan,Osaka,100.0,38.8,71.2,2023-07-25
+348,Chen Brown,F,20.0,Japan,Tokyo,74.4,73.4,67.5,2023-12-06
+349,Noor Rossi,F,19.0,UK,London,77.0,62.7,60.6,2022-09-24
+350,Emma Brown,Male,20.0,UK,Leeds,64.1,38.6,67.6,2024-04-23
+351,Yusuf Patel,Male,18.0,Canada,Toronto,,79.8,67.3,2022-06-29
+352,Priya Lee,Female,20.0,USA,Austin,62.8,88.1,65.3,2024-03-23
+353,Liam Rossi,M,18.0,India,Mumbai,56.9,88.9,68.8,2022-01-28
+354,Chen Lee,F,17.0,Pakistan,Lahore,52.6,73.0,83.8,2022-01-19
+355,John Rossi,Male,23.0,Japan,Osaka,90.7,68.6,74.0,2022-03-13
+356,Liam Lee,M,17.0,Japan,Tokyo,73.3,86.6,96.7,2023-12-14
+357,Ravi Singh,Male,,UK,London,74.6,91.6,73.7,2022-08-20
+358,Sana Ahmed,Female,24.0,Japan,Osaka,66.3,83.9,69.1,2023-02-11
+359,Chen Lee,F,23.0,USA,New York,67.9,54.8,72.0,2023-03-01
+360,Emma Patel,Male,21.0,Germany,Munich,81.6,70.8,74.6,2023-12-12
+361,Liam Wang,Male,18.0,Brazil,Rio de Janeiro,69.6,74.2,76.4,2022-11-10
+362,Priya Brown,Female,,Japan,Osaka,76.4,42.7,92.8,2022-01-07
+363,Ravi Rossi,M,24.0,UK,London,67.6,74.6,63.5,2022-12-14
+364,Sana Rossi,F,22.0,Japan,Osaka,65.9,99.8,80.6,2022-09-17
+365,Taha Smith,F,17.0,USA,New York,53.1,77.0,74.1,2023-10-20
+366,Emma Lee,Male,,Canada,Vancouver,46.3,88.6,56.3,2023-11-08
+367,Priya Lee,Male,19.0,Pakistan,Lahore,66.9,70.6,79.7,2022-03-24
+368,Liam Garcia,M,18.0,India,Mumbai,70.7,67.0,84.7,2023-12-15
+369,Ali Ahmed,Male,24.0,USA,New York,54.6,73.3,63.4,2022-03-05
+370,John Khan,F,18.0,Brazil,Sao Paulo,69.6,56.6,71.9,2023-07-12
+371,Chen Lee,M,19.0,India,Delhi,70.6,54.5,54.7,2022-12-17
+372,Priya Patel,Male,25.0,Germany,Berlin,44.1,85.7,59.4,2022-09-29
+373,Yusuf Rossi,F,24.0,Pakistan,Karachi,,87.2,82.5,2023-03-11
+374,Emma Patel,Male,18.0,India,Delhi,74.9,54.1,67.3,2022-10-07
+375,John Rossi,Female,20.0,Japan,Osaka,74.6,81.6,60.9,2023-12-16
+376,Maria Patel,Female,21.0,USA,Austin,56.2,66.8,74.3,2024-05-20
+377,Sana Lee,Female,22.0,Germany,Munich,71.9,72.8,66.8,2024-01-05
+378,Liam Khan,M,25.0,Germany,Munich,82.3,74.4,67.3,2023-01-31
+379,Maria Wang,M,,Pakistan,Lahore,79.3,81.9,79.4,2023-03-29
+380,Amira Singh,F,25.0,India,Mumbai,68.9,69.2,60.4,2023-02-07
+381,Maria Rossi,F,17.0,USA,Austin,64.4,87.7,62.9,2023-12-16
+382,Ravi Singh,Female,19.0,Japan,Osaka,62.4,72.3,73.5,2023-05-13
+383,Maria Khan,Male,22.0,Japan,Osaka,75.6,76.7,81.7,2023-02-26
+384,Ali Garcia,M,17.0,UK,Leeds,72.3,56.3,84.4,2023-01-04
+385,Priya Khan,F,20.0,USA,Austin,,98.2,65.3,2022-12-04
+386,Fatima Ahmed,Female,18.0,USA,New York,71.6,74.6,81.4,2023-05-13
+387,Yusuf Brown,Female,25.0,USA,Austin,79.8,78.0,64.2,2023-09-13
+388,Omar Lee,Female,17.0,Brazil,Rio de Janeiro,71.1,45.5,90.3,2023-01-25
+389,Liam Lee,Male,18.0,Japan,Tokyo,79.4,56.5,60.7,2023-12-27
+390,Ali Singh,M,18.0,UK,Leeds,80.4,85.3,85.3,2024-01-15
+391,Omar Lee,Female,18.0,Germany,Berlin,60.3,72.0,65.4,2023-01-22
+392,Fatima Singh,M,22.0,UK,Leeds,48.3,41.2,92.1,2024-03-29
+393,Fatima Khan,F,,India,Delhi,88.5,82.5,77.9,2022-06-05
+394,Yusuf Smith,F,25.0,Canada,Toronto,73.1,60.4,61.8,2024-04-18
+395,Sana Brown,Female,19.0,Germany,Berlin,49.4,87.8,66.8,2022-09-22
+396,Maria Singh,Female,21.0,Brazil,Rio de Janeiro,61.4,66.8,79.8,2023-05-23
+397,Ravi Khan,M,22.0,USA,New York,79.3,70.9,82.5,2022-09-13
+398,Priya Wang,F,22.0,UK,Leeds,66.6,84.5,71.3,2023-02-02
+399,Maria Brown,Female,,India,Mumbai,63.9,55.4,72.4,2022-11-03
+400,  Chen Khan  ,F,18.0,India,Delhi,86.8,54.1,79.6,2023-09-27
+401,Omar Patel,Male,21.0,Japan,Osaka,57.4,65.2,73.3,2022-03-15
+402,Noor Singh,F,24.0,Brazil,Rio de Janeiro,60.4,79.6,59.1,2024-01-25
+403,Liam Brown,Male,24.0,India,Mumbai,72.5,49.4,63.9,2024-03-24
+404,Maria Smith,Male,22.0,Japan,Osaka,74.7,44.6,74.4,2023-05-22
+405,Ravi Singh,Female,22.0,Pakistan,Karachi,76.0,79.5,84.2,2023-05-08
+406,Chen Garcia,Male,24.0,Canada,Toronto,80.9,59.6,88.2,2023-09-22
+407,Omar Singh,Male,22.0,Pakistan,Karachi,72.4,62.5,79.8,2022-06-29
+408,Yusuf Smith,Male,25.0,UK,Leeds,75.9,42.0,74.9,2023-11-06
+409,Noor Wang,Female,18.0,Japan,Osaka,66.9,58.5,79.5,2022-07-16
+410,Ravi Garcia,M,20.0,USA,New York,70.8,67.9,65.3,2023-09-01
+411,Sana Smith,Male,18.0,UK,London,71.3,81.0,70.5,2022-10-03
+412,Amira Singh,M,17.0,UK,Leeds,72.6,57.2,63.8,2023-11-03
+413,Emma Ahmed,F,21.0,India,Mumbai,79.3,91.2,59.5,2023-12-13
+414,Noor Khan,Male,19.0,UK,London,76.7,58.4,75.3,2022-07-07
+415,Noor Garcia,Male,20.0,USA,Austin,70.5,58.4,73.9,2023-07-10
+416,Ravi Lee,F,20.0,Germany,Berlin,60.3,89.5,78.9,2023-03-25
+417,Ravi Singh,F,22.0,Japan,Osaka,70.8,71.0,77.5,2022-09-22
+418,  Amira Rossi  ,Female,25.0,USA,Austin,69.7,60.3,74.4,2023-06-14
+419,Liam Smith,F,24.0,India,Mumbai,72.3,65.8,77.6,2024-06-12
+420,Omar Patel,Male,20.0,Canada,Toronto,96.5,86.9,71.6,2022-01-03
+421,Amira Ahmed,Female,19.0,Japan,Osaka,63.7,88.5,76.1,2024-05-11
+422,Sana Wang,M,23.0,Germany,Munich,75.1,56.6,64.7,2024-02-10
+423,Taha Rossi,Male,18.0,Brazil,Rio de Janeiro,,67.4,75.7,2023-04-22
+424,Emma Lee,M,21.0,Canada,Toronto,71.2,69.3,78.7,2023-07-04
+425,Omar Wang,Female,20.0,Pakistan,Lahore,,54.2,65.3,2022-11-29
+426,Ali Garcia,M,,UK,Leeds,65.5,67.2,72.5,2022-04-27
+427,Chen Rossi,Female,22.0,Brazil,Sao Paulo,,68.1,65.8,2023-05-30
+428,Maria Patel,Female,19.0,Brazil,Rio de Janeiro,60.4,84.0,66.7,2024-01-05
+429,Fatima Ahmed,Male,18.0,USA,Austin,65.8,84.9,60.8,2022-07-27
+430,Sana Garcia,Male,22.0,Germany,Berlin,73.0,63.4,84.7,2023-10-08
+431,Sana Khan,M,18.0,USA,New York,,65.0,82.7,2023-11-05
+432,Fatima Smith,Male,23.0,Germany,Munich,73.8,77.3,77.4,2023-11-14
+433,Amira Khan,Male,18.0,Brazil,Sao Paulo,85.1,59.8,91.7,2022-11-03
+434,John Patel,Male,20.0,UK,London,68.9,76.2,70.1,2022-12-19
+435,Priya Brown,Male,24.0,Pakistan,Karachi,66.0,66.8,100.0,2023-01-10
+436,Yusuf Garcia,F,19.0,USA,Austin,100.0,54.4,69.7,2024-02-08
+437,Ravi Patel,Female,23.0,Canada,Toronto,74.7,54.6,74.6,2024-03-21
+438,Yusuf Rossi,F,23.0,Japan,Osaka,61.4,88.3,68.0,2023-01-08
+439,Priya Lee,Male,25.0,USA,Austin,61.7,65.8,75.7,2024-05-22
+440,Chen Wang,M,18.0,Pakistan,Lahore,58.7,91.0,80.4,2023-05-29
+441,Priya Smith,Female,23.0,Japan,Osaka,81.2,60.8,70.9,2022-12-13
+442,Fatima Singh,Female,25.0,India,Mumbai,65.6,72.1,89.8,2022-01-01
+443,Fatima Smith,F,23.0,UK,London,71.5,100.0,74.4,2023-07-04
+444,Amira Garcia,F,18.0,Pakistan,Karachi,69.2,53.2,74.7,2023-08-04
+445,Yusuf Rossi,F,24.0,Canada,Vancouver,78.8,41.4,62.9,2024-05-21
+446,John Wang,Male,17.0,Germany,Munich,59.8,86.0,76.2,2023-10-09
+447,Priya Lee,Male,22.0,India,Mumbai,57.1,56.4,70.7,2022-01-27
+448,Maria Wang,M,21.0,Japan,Osaka,72.7,67.7,65.9,2023-05-26
+449,Liam Brown,Male,21.0,Canada,Vancouver,77.2,59.8,64.2,2023-10-31
+450,Ali Smith,M,21.0,India,Mumbai,74.0,71.8,98.7,2023-03-23
+451,Emma Smith,Female,17.0,Japan,Tokyo,60.3,54.7,69.4,2023-01-22
+452,John Garcia,Female,21.0,Japan,Tokyo,78.1,65.5,57.4,2023-12-30
+453,Taha Ahmed,F,25.0,Pakistan,Karachi,61.1,74.3,65.0,2023-07-05
+454,Fatima Singh,M,20.0,USA,New York,63.7,53.9,71.5,2023-09-06
+455,Ali Smith,Male,19.0,Canada,Vancouver,58.7,58.2,77.5,2023-02-22
+456,Ali Wang,Male,25.0,Canada,Vancouver,85.6,63.1,77.5,2022-09-08
+457,Maria Lee,M,17.0,UK,Leeds,77.6,48.0,78.8,2023-04-13
+458,Amira Lee,Female,21.0,Germany,Berlin,77.3,62.1,65.6,2024-05-13
+459,Liam Patel,Male,21.0,Brazil,Rio de Janeiro,85.0,69.7,75.4,2023-06-27
+460,Emma Patel,Female,21.0,USA,New York,100.0,62.4,63.2,2023-09-29
+461,Priya Rossi,M,25.0,Germany,Berlin,49.5,64.2,65.8,2022-04-22
+462,Amira Brown,F,20.0,UK,Leeds,61.1,67.7,62.8,2024-06-08
+463,Maria Singh,Female,25.0,Germany,Munich,62.6,58.8,60.1,2022-08-09
+464,Noor Rossi,Female,17.0,Pakistan,Karachi,59.8,77.7,82.6,2024-05-24
+465,John Lee,Male,23.0,USA,New York,57.1,88.1,78.9,2023-02-06
+466,Chen Ahmed,Female,22.0,Japan,Osaka,66.4,61.5,81.8,2024-04-07
+467,Taha Wang,Female,19.0,UK,Leeds,55.4,74.8,72.4,2024-03-13
+468,John Ahmed,Female,19.0,Canada,Toronto,74.0,64.6,79.8,2023-11-11
+469,Ravi Brown,M,23.0,UK,Leeds,70.6,73.1,54.4,2024-04-04
+470,John Rossi,Male,22.0,Japan,Osaka,75.8,89.9,80.6,2023-07-03
+471,Omar Wang,Male,22.0,Germany,Berlin,76.1,75.1,73.8,2024-02-03
+472,Priya Patel,Male,17.0,Brazil,Rio de Janeiro,77.2,43.2,78.3,2022-06-04
+473,Taha Khan,F,22.0,Pakistan,Lahore,65.5,74.4,75.8,2022-03-05
+474,Priya Rossi,M,25.0,Pakistan,Lahore,95.5,85.3,62.1,2023-05-05
+475,Omar Ahmed,Male,17.0,Germany,Berlin,72.8,64.9,57.0,2023-12-30
+476,John Khan,F,21.0,Brazil,Sao Paulo,47.7,81.9,64.9,2023-11-20
+477,Ali Smith,Female,21.0,Brazil,Rio de Janeiro,58.0,58.3,77.6,2023-04-21
+478,Amira Khan,Female,25.0,USA,Austin,49.1,47.2,78.9,2023-04-14
+479,  Priya Patel  ,F,19.0,Germany,Berlin,,70.0,58.3,2023-07-03
+480,Maria Wang,Male,21.0,USA,Austin,68.5,43.4,62.2,2024-02-21
+481,Omar Garcia,Male,23.0,India,Delhi,64.4,64.6,64.8,2024-01-28
+482,Ali Khan,Female,17.0,Brazil,Sao Paulo,94.1,86.0,68.4,2022-04-09
+483,Emma Ahmed,Male,24.0,India,Delhi,76.6,41.3,58.4,2023-06-21
+484,Liam Garcia,M,24.0,Brazil,Sao Paulo,,50.1,57.8,2022-12-09
+485,Omar Khan,Male,23.0,Pakistan,Karachi,58.8,53.6,63.8,2023-12-21
+486,Yusuf Brown,Male,22.0,UK,London,58.0,67.1,72.9,2023-04-01
+487,Ravi Smith,Male,23.0,India,Mumbai,70.4,62.9,60.2,2024-06-11
+488,Priya Garcia,Female,24.0,Canada,Vancouver,72.1,87.6,70.8,2023-01-25
+489,Chen Garcia,Male,25.0,Brazil,Sao Paulo,47.7,81.4,82.6,2023-09-04
+490,Maria Patel,Male,20.0,Canada,Vancouver,67.8,74.9,59.0,2022-04-08
+491,Taha Khan,F,21.0,Japan,Tokyo,,70.0,69.9,2024-04-19
+492,John Ahmed,Female,22.0,Brazil,Rio de Janeiro,67.4,73.5,82.2,2022-05-19
+493,Ravi Singh,Female,18.0,Brazil,Sao Paulo,60.2,55.9,67.8,2022-12-07
+494,Taha Khan,Male,24.0,Canada,Vancouver,63.5,80.0,66.3,2024-01-24
+495,Sana Wang,Female,23.0,India,Delhi,67.9,52.4,83.6,2024-05-20
+496,John Patel,Male,22.0,Pakistan,Lahore,71.1,79.7,68.9,2023-03-12
+497,Ali Garcia,M,19.0,USA,New York,77.3,84.6,83.0,2023-03-13
+498,Ravi Patel,Male,20.0,India,Mumbai,83.0,71.0,76.3,2022-02-13
+499,Amira Lee,F,20.0,Japan,Tokyo,66.5,65.5,68.6,2024-05-30
+500,Chen Singh,F,22.0,Pakistan,Karachi,64.5,73.6,76.8,2022-01-15
+305,Priya Khan,Male,18.0,Canada,Toronto,91.3,91.9,68.5,2023-11-04
+341,Liam Rossi,Male,20.0,Germany,Munich,76.0,96.3,77.2,2023-07-30
+48,John Singh,Male,22.0,Japan,Osaka,83.2,82.5,82.8,2022-02-12
+68,Taha Brown,Female,22.0,India,Delhi,83.4,69.8,67.7,2022-02-27
+480,Maria Wang,Male,21.0,USA,Austin,68.5,43.4,62.2,2024-02-21
+486,Yusuf Brown,Male,22.0,UK,London,58.0,67.1,72.9,2023-04-01
+311,Ali Khan,F,21.0,Germany,Munich,62.1,88.1,82.6,2023-02-03
+32,Chen Ahmed,F,24.0,UK,London,60.2,55.4,96.6,2023-03-24
+250,Priya Wang,Male,25.0,USA,New York,80.9,81.9,77.3,2023-04-10
+91,Noor Ahmed,Male,17.0,Pakistan,Karachi,68.2,57.5,69.4,2022-03-25

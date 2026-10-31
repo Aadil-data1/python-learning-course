@@ -1,0 +1,301 @@
+customer_id,name,email,signup_date,country,segment,lifetime_value,is_active
+1001,Taha Lee,user0@example.com,2022-11-04,India,Retail,163.35,True
+1002,Omar Ahmed,user1@example.com,2022-11-20,India,Small Business,207.82,False
+1003,Yusuf Brown,user2@example.com,2024-08-19,UK,Small Business,754.89,False
+1004,Fatima Patel,user3@example.com,2023-08-12,Pakistan,Retail,520.38,True
+1005,Chen Rossi,,2024-07-27,Canada,Small Business,247.62,True
+1006,Priya Singh,user5@example.com,2024-03-31,India,Small Business,210.69,True
+1007,Liam Ahmed,user6@example.com,2023-12-05,Canada,Retail,457.53,True
+1008,Yusuf Ahmed,user7@example.com,2021-12-29,India,Corporate,267.88,True
+1009,Taha Khan,user8@example.com,2022-08-22,Germany,Retail,133.06,True
+1010,Priya Patel,user9@example.com,2024-07-20,Germany,Corporate,289.29,True
+1011,Maria Khan,user10@example.com,2023-07-14,Japan,Retail,566.57,True
+1012,Ravi Lee,user11@example.com,2022-02-25,USA,Retail,337.61,True
+1013,Priya Wang,user12@example.com,2022-05-07,Brazil,Retail,98.15,True
+1014,Liam Singh,user13@example.com,2024-03-09,India,Small Business,1084.71,True
+1015,Yusuf Smith,user14@example.com,2021-09-25,USA,Retail,26.08,False
+1016,Priya Wang,user15@example.com,2021-06-18,Germany,Retail,258.17,True
+1017,Yusuf Ahmed,user16@example.com,2024-02-22,UK,Retail,216.98,False
+1018,Sana Singh,user17@example.com,2022-03-09,UK,Retail,467.86,True
+1019,Noor Ahmed,user18@example.com,2024-02-23,Japan,Corporate,707.45,False
+1020,Yusuf Ahmed,user19@example.com,2023-03-12,UK,Corporate,1244.84,True
+1021,Noor Smith,,2025-02-05,Canada,Retail,197.87,True
+1022,Sana Singh,user21@example.com,2023-02-27,UK,Retail,725.3,True
+1023,Emma Ahmed,user22@example.com,2024-07-25,USA,Retail,490.69,False
+1024,Sana Brown,user23@example.com,2024-06-29,USA,Retail,72.85,False
+1025,Ali Lee,user24@example.com,2021-11-14,USA,Corporate,2698.74,True
+1026,Yusuf Lee,,2025-02-03,Pakistan,Corporate,95.7,True
+1027,Maria Ahmed,user26@example.com,2024-01-24,Pakistan,Retail,613.69,True
+1028,Noor Khan,user27@example.com,2021-06-10,USA,Retail,595.83,True
+1029,Amira Patel,user28@example.com,2021-01-10,India,Retail,531.46,False
+1030,Omar Smith,user29@example.com,2022-02-12,India,Retail,246.02,True
+1031,Omar Brown,,2021-01-25,Canada,Retail,922.65,True
+1032,Maria Garcia,,2022-06-21,Japan,Corporate,84.74,False
+1033,Ali Patel,user32@example.com,2025-02-03,Germany,Retail,377.73,True
+1034,Maria Ahmed,user33@example.com,2022-12-20,Japan,Small Business,229.55,False
+1035,Amira Wang,user34@example.com,2021-02-05,UK,Retail,204.94,True
+1036,Sana Ahmed,user35@example.com,2023-01-11,UK,Retail,619.4,True
+1037,Sana Brown,user36@example.com,2021-11-25,Brazil,Retail,1184.98,True
+1038,Fatima Khan,user37@example.com,2024-07-08,India,Retail,286.22,True
+1039,Taha Rossi,user38@example.com,2021-05-16,Brazil,Retail,880.67,False
+1040,Maria Brown,user39@example.com,2024-03-01,Pakistan,Retail,424.0,True
+1041,Chen Ahmed,user40@example.com,2022-10-31,UK,Corporate,165.22,True
+1042,John Khan,user41@example.com,2021-01-29,Brazil,Retail,311.7,True
+1043,Omar Garcia,user42@example.com,2023-10-07,Canada,Corporate,299.02,True
+1044,Chen Ahmed,user43@example.com,2022-11-14,Brazil,Corporate,201.01,True
+1045,Emma Smith,user44@example.com,2024-03-03,Pakistan,Retail,619.23,True
+1046,Amira Singh,user45@example.com,2023-07-17,UK,Retail,510.12,True
+1047,Noor Brown,user46@example.com,2024-03-26,Germany,Retail,82.22,True
+1048,Yusuf Ahmed,user47@example.com,2022-11-22,USA,Retail,77.36,True
+1049,Priya Wang,user48@example.com,2021-01-12,Germany,Corporate,616.89,True
+1050,Ravi Smith,user49@example.com,2021-07-15,Pakistan,Small Business,178.52,True
+1051,Omar Rossi,user50@example.com,2022-11-20,Brazil,Retail,545.68,False
+1052,Noor Khan,user51@example.com,2022-08-20,Brazil,Retail,880.89,True
+1053,Chen Lee,user52@example.com,2024-04-06,Pakistan,Corporate,113.19,False
+1054,Fatima Lee,user53@example.com,2022-09-10,Japan,Corporate,98.34,True
+1055,Noor Khan,user54@example.com,2024-07-14,USA,Retail,2152.6,False
+1056,Amira Ahmed,user55@example.com,2021-10-09,USA,Corporate,573.39,False
+1057,Chen Garcia,,2022-08-01,Japan,Retail,265.27,True
+1058,Emma Singh,user57@example.com,2024-02-09,Canada,Retail,158.55,True
+1059,Ravi Wang,user58@example.com,2021-07-06,Pakistan,Retail,242.15,True
+1060,Liam Brown,user59@example.com,2022-04-28,UK,Retail,122.66,True
+1061,Liam Lee,user60@example.com,2024-02-02,India,Small Business,975.95,True
+1062,Priya Singh,user61@example.com,2023-06-03,Germany,Retail,185.54,True
+1063,Taha Patel,user62@example.com,2024-03-13,Brazil,Retail,1204.16,True
+1064,Ravi Wang,user63@example.com,2023-02-13,Japan,Retail,270.26,True
+1065,Chen Lee,user64@example.com,2024-07-12,Pakistan,Retail,142.12,True
+1066,Ravi Smith,user65@example.com,2024-08-09,Pakistan,Retail,263.41,False
+1067,Ravi Singh,user66@example.com,2025-01-01,UK,Retail,29.25,True
+1068,John Khan,user67@example.com,2021-07-03,USA,Corporate,357.53,True
+1069,Priya Ahmed,user68@example.com,2023-06-06,Pakistan,Retail,340.32,False
+1070,Liam Singh,user69@example.com,2021-06-21,Canada,Corporate,920.34,True
+1071,John Garcia,user70@example.com,2021-12-10,USA,Retail,61.17,True
+1072,John Ahmed,user71@example.com,2022-03-27,Pakistan,Corporate,1289.32,False
+1073,Taha Ahmed,,2023-08-28,Germany,Corporate,916.53,True
+1074,Ravi Wang,user73@example.com,2022-10-09,Brazil,Retail,1410.99,False
+1075,Ali Singh,,2024-07-21,Japan,Retail,382.71,False
+1076,Noor Khan,user75@example.com,2022-03-24,India,Small Business,1111.98,True
+1077,Emma Khan,user76@example.com,2023-07-15,Pakistan,Retail,92.64,False
+1078,Amira Patel,user77@example.com,2024-02-19,Brazil,Corporate,823.08,False
+1079,Chen Rossi,user78@example.com,2025-01-10,Germany,Retail,186.58,True
+1080,Yusuf Smith,user79@example.com,2022-01-03,India,Retail,77.37,False
+1081,Amira Rossi,user80@example.com,2024-01-06,Germany,Retail,131.09,True
+1082,Noor Singh,user81@example.com,2021-05-08,UK,Small Business,405.67,True
+1083,Ravi Smith,user82@example.com,2023-03-27,Pakistan,Retail,176.92,False
+1084,Chen Singh,user83@example.com,2022-09-13,India,Corporate,587.62,True
+1085,Yusuf Brown,user84@example.com,2024-12-08,Japan,Corporate,66.14,False
+1086,Noor Wang,user85@example.com,2024-03-06,USA,Retail,48.08,True
+1087,John Patel,user86@example.com,2024-10-22,Brazil,Retail,1591.43,False
+1088,Chen Singh,user87@example.com,2024-06-29,India,Retail,996.05,True
+1089,Amira Lee,user88@example.com,2022-09-09,USA,Retail,141.27,False
+1090,Ali Lee,user89@example.com,2024-01-06,Germany,Corporate,402.22,True
+1091,Chen Rossi,user90@example.com,2021-02-15,Germany,Retail,1118.24,False
+1092,Chen Patel,user91@example.com,2023-04-17,UK,Retail,613.51,False
+1093,Sana Singh,user92@example.com,2021-03-12,USA,Corporate,467.89,True
+1094,Noor Singh,user93@example.com,2023-12-23,USA,Retail,1206.11,True
+1095,Sana Smith,user94@example.com,2024-12-21,Pakistan,Retail,194.28,True
+1096,Yusuf Khan,user95@example.com,2023-10-20,UK,Retail,416.21,False
+1097,Chen Patel,user96@example.com,2024-06-13,Germany,Retail,396.29,False
+1098,Priya Singh,user97@example.com,2021-12-18,USA,Corporate,307.12,True
+1099,Yusuf Smith,user98@example.com,2025-01-30,Brazil,Retail,273.2,True
+1100,Amira Lee,user99@example.com,2023-04-07,Brazil,Retail,433.92,True
+1101,Priya Khan,user100@example.com,2023-10-09,Germany,Retail,417.55,True
+1102,Priya Garcia,user101@example.com,2024-03-01,Japan,Retail,141.4,True
+1103,Sana Brown,user102@example.com,2023-08-18,Japan,Corporate,899.46,False
+1104,Omar Ahmed,user103@example.com,2022-04-21,USA,Retail,151.96,True
+1105,Ali Singh,user104@example.com,2023-07-07,India,Small Business,324.33,True
+1106,Priya Ahmed,user105@example.com,2023-09-08,Brazil,Corporate,300.28,True
+1107,Yusuf Rossi,user106@example.com,2024-07-10,India,Retail,577.15,True
+1108,Priya Smith,user107@example.com,2022-12-24,Germany,Corporate,48.47,False
+1109,Amira Rossi,user108@example.com,2023-01-23,Brazil,Retail,983.3,True
+1110,Yusuf Brown,user109@example.com,2023-01-25,Japan,Small Business,205.0,True
+1111,Taha Khan,user110@example.com,2021-06-21,India,Retail,1366.44,True
+1112,Maria Khan,user111@example.com,2021-05-16,India,Retail,250.09,True
+1113,Taha Khan,user112@example.com,2021-01-31,USA,Retail,384.2,True
+1114,Omar Wang,user113@example.com,2023-09-27,India,Retail,2734.72,False
+1115,Chen Singh,user114@example.com,2022-09-21,India,Corporate,305.72,True
+1116,Ravi Patel,user115@example.com,2024-07-22,Pakistan,Retail,1392.49,False
+1117,Maria Patel,user116@example.com,2023-11-20,Pakistan,Retail,419.49,True
+1118,Taha Wang,user117@example.com,2021-08-01,Brazil,Retail,611.2,False
+1119,Priya Wang,user118@example.com,2021-05-31,Brazil,Small Business,432.66,True
+1120,John Brown,user119@example.com,2022-07-04,Germany,Corporate,941.86,True
+1121,Emma Patel,user120@example.com,2024-10-13,USA,Retail,203.26,True
+1122,Maria Lee,user121@example.com,2021-03-15,Pakistan,Retail,150.8,False
+1123,Taha Rossi,user122@example.com,2021-10-09,Germany,Retail,213.03,True
+1124,John Garcia,user123@example.com,2021-02-14,UK,Small Business,445.73,True
+1125,Noor Khan,user124@example.com,2022-09-13,Pakistan,Corporate,323.49,True
+1126,Maria Ahmed,user125@example.com,2025-01-24,Germany,Retail,820.8,False
+1127,Fatima Wang,user126@example.com,2023-10-23,Brazil,Small Business,1487.32,True
+1128,Taha Garcia,user127@example.com,2023-01-11,Brazil,Retail,152.04,True
+1129,Omar Rossi,user128@example.com,2021-08-05,Pakistan,Corporate,193.65,True
+1130,Ali Brown,user129@example.com,2022-06-18,Pakistan,Retail,95.94,False
+1131,Ali Wang,user130@example.com,2023-02-26,Pakistan,Retail,3072.89,True
+1132,Yusuf Lee,user131@example.com,2022-02-17,Germany,Retail,547.12,False
+1133,Maria Smith,user132@example.com,2023-11-24,Pakistan,Retail,651.84,False
+1134,Omar Singh,user133@example.com,2025-01-10,Pakistan,Small Business,105.61,False
+1135,John Khan,user134@example.com,2021-11-05,UK,Retail,402.96,True
+1136,Ravi Brown,user135@example.com,2022-01-14,Pakistan,Corporate,671.32,True
+1137,Ravi Rossi,user136@example.com,2021-07-09,UK,Corporate,313.33,False
+1138,Emma Lee,user137@example.com,2023-12-25,Canada,Corporate,1182.88,True
+1139,Ali Singh,user138@example.com,2022-11-24,Japan,Small Business,4071.76,True
+1140,Omar Garcia,user139@example.com,2022-03-02,Brazil,Retail,156.48,True
+1141,Amira Singh,user140@example.com,2021-11-25,Pakistan,Retail,145.17,True
+1142,Yusuf Wang,user141@example.com,2021-04-16,Japan,Retail,167.71,True
+1143,Ali Brown,user142@example.com,2022-12-16,Japan,Retail,2010.62,False
+1144,Noor Khan,user143@example.com,2023-10-22,Pakistan,Small Business,1144.08,True
+1145,Emma Smith,user144@example.com,2021-12-19,Brazil,Retail,352.3,True
+1146,Yusuf Wang,user145@example.com,2021-01-03,India,Retail,418.45,True
+1147,John Khan,user146@example.com,2022-12-11,Japan,Retail,178.3,True
+1148,Ali Lee,user147@example.com,2023-10-11,India,Retail,982.43,True
+1149,Fatima Singh,user148@example.com,2022-06-02,India,Corporate,275.92,True
+1150,Maria Rossi,user149@example.com,2022-01-11,UK,Retail,311.04,True
+1151,Priya Ahmed,user150@example.com,2021-08-20,Brazil,Corporate,741.58,True
+1152,Liam Rossi,user151@example.com,2024-01-25,India,Corporate,334.29,True
+1153,John Khan,user152@example.com,2024-07-16,Brazil,Corporate,318.95,True
+1154,Yusuf Patel,user153@example.com,2024-02-29,USA,Retail,407.72,True
+1155,Ali Singh,user154@example.com,2023-02-17,Canada,Corporate,893.69,False
+1156,Noor Khan,user155@example.com,2023-12-23,Pakistan,Retail,2093.29,True
+1157,Maria Khan,user156@example.com,2022-08-19,Pakistan,Retail,724.5,True
+1158,Priya Khan,user157@example.com,2021-02-06,UK,Corporate,900.83,True
+1159,Omar Wang,user158@example.com,2022-07-06,USA,Corporate,330.35,True
+1160,Amira Singh,user159@example.com,2023-11-22,India,Retail,198.78,True
+1161,Yusuf Ahmed,user160@example.com,2023-08-30,Pakistan,Small Business,775.87,True
+1162,Ali Ahmed,user161@example.com,2025-01-25,Brazil,Retail,478.78,True
+1163,Noor Wang,,2025-02-05,Pakistan,Retail,97.26,True
+1164,Sana Smith,user163@example.com,2021-12-30,UK,Small Business,290.59,True
+1165,Amira Lee,user164@example.com,2021-01-15,India,Retail,371.33,True
+1166,Fatima Rossi,user165@example.com,2022-02-16,Canada,Corporate,242.15,True
+1167,Priya Lee,user166@example.com,2024-08-07,Pakistan,Retail,1775.32,False
+1168,Ravi Singh,user167@example.com,2024-05-05,Japan,Corporate,651.87,True
+1169,Noor Wang,user168@example.com,2021-05-29,Pakistan,Corporate,1592.68,False
+1170,Ravi Singh,user169@example.com,2021-08-29,Canada,Corporate,525.01,True
+1171,Amira Ahmed,user170@example.com,2023-04-26,USA,Retail,437.64,True
+1172,Priya Khan,user171@example.com,2023-09-18,UK,Corporate,158.13,True
+1173,Noor Brown,user172@example.com,2025-01-13,Brazil,Retail,408.27,True
+1174,Amira Khan,user173@example.com,2024-02-07,India,Small Business,408.73,True
+1175,Chen Singh,user174@example.com,2021-11-14,Pakistan,Retail,102.81,False
+1176,Maria Brown,user175@example.com,2021-02-25,Canada,Retail,235.21,True
+1177,Emma Rossi,user176@example.com,2023-08-09,USA,Small Business,291.99,True
+1178,Chen Garcia,user177@example.com,2023-04-11,Canada,Retail,610.01,False
+1179,Noor Patel,user178@example.com,2024-10-14,India,Retail,639.92,False
+1180,Liam Lee,user179@example.com,2023-05-14,UK,Corporate,225.58,True
+1181,Noor Smith,user180@example.com,2023-01-22,Pakistan,Retail,644.75,False
+1182,Omar Wang,user181@example.com,2022-04-01,Pakistan,Retail,336.27,True
+1183,Yusuf Brown,user182@example.com,2021-05-10,UK,Retail,22.88,False
+1184,Yusuf Rossi,user183@example.com,2024-08-07,Canada,Retail,248.46,False
+1185,Priya Lee,user184@example.com,2024-05-24,Germany,Retail,1186.77,True
+1186,Amira Ahmed,user185@example.com,2021-09-02,India,Retail,75.05,False
+1187,Fatima Patel,,2023-11-22,Japan,Retail,451.55,False
+1188,Omar Wang,user187@example.com,2022-07-01,Canada,Retail,1968.96,True
+1189,Ravi Ahmed,user188@example.com,2022-10-18,Brazil,Retail,188.55,True
+1190,Noor Patel,user189@example.com,2024-06-27,USA,Corporate,404.3,True
+1191,Ali Smith,user190@example.com,2024-06-17,Brazil,Corporate,109.51,False
+1192,Yusuf Ahmed,user191@example.com,2021-10-13,India,Retail,2053.36,True
+1193,Ravi Wang,user192@example.com,2022-04-07,Germany,Retail,371.17,True
+1194,Sana Ahmed,user193@example.com,2024-05-17,Brazil,Small Business,422.68,True
+1195,Priya Wang,user194@example.com,2024-10-07,India,Retail,1562.9,True
+1196,Maria Ahmed,user195@example.com,2021-04-29,India,Retail,781.71,True
+1197,Ravi Lee,user196@example.com,2024-06-04,USA,Retail,168.07,True
+1198,Noor Ahmed,user197@example.com,2023-01-04,Canada,Retail,211.18,True
+1199,Noor Singh,user198@example.com,2023-06-05,Brazil,Corporate,661.78,True
+1200,Maria Khan,user199@example.com,2021-04-23,Pakistan,Small Business,216.13,True
+1201,Priya Wang,user200@example.com,2023-10-18,UK,Small Business,48.56,True
+1202,Omar Garcia,user201@example.com,2023-10-14,India,Retail,382.51,True
+1203,John Smith,user202@example.com,2023-09-22,Pakistan,Retail,91.82,True
+1204,Maria Patel,user203@example.com,2024-03-31,Japan,Retail,2031.0,True
+1205,Sana Singh,user204@example.com,2024-11-20,USA,Retail,481.44,True
+1206,Chen Rossi,user205@example.com,2024-06-28,India,Retail,163.18,True
+1207,Chen Garcia,user206@example.com,2024-01-23,Germany,Corporate,200.61,True
+1208,Chen Ahmed,user207@example.com,2025-01-11,UK,Retail,60.98,True
+1209,Emma Lee,user208@example.com,2023-10-09,Japan,Small Business,134.36,False
+1210,Taha Wang,user209@example.com,2023-10-06,Japan,Retail,1114.68,True
+1211,Amira Smith,user210@example.com,2023-03-25,Pakistan,Retail,3758.54,True
+1212,Sana Lee,user211@example.com,2024-02-28,Germany,Small Business,834.14,True
+1213,Maria Wang,user212@example.com,2021-04-18,Brazil,Corporate,367.95,True
+1214,Maria Brown,user213@example.com,2023-01-29,Germany,Retail,261.92,True
+1215,Ali Garcia,user214@example.com,2022-09-30,UK,Retail,155.01,True
+1216,Amira Patel,user215@example.com,2024-10-01,USA,Retail,3164.55,True
+1217,Liam Ahmed,user216@example.com,2021-04-19,India,Retail,334.04,False
+1218,Ravi Lee,user217@example.com,2023-08-24,UK,Retail,3346.36,True
+1219,Fatima Ahmed,,2021-10-04,India,Retail,1625.42,True
+1220,Emma Lee,user219@example.com,2024-08-18,Germany,Corporate,70.75,True
+1221,Noor Lee,user220@example.com,2024-07-01,Canada,Retail,207.28,True
+1222,Omar Lee,user221@example.com,2021-12-20,UK,Corporate,206.64,False
+1223,Chen Khan,user222@example.com,2024-07-31,USA,Corporate,372.47,True
+1224,Amira Smith,user223@example.com,2023-01-16,UK,Retail,379.82,True
+1225,Omar Patel,user224@example.com,2024-12-27,Pakistan,Retail,8072.67,True
+1226,Yusuf Wang,,2023-12-31,Brazil,Retail,137.38,False
+1227,Amira Rossi,user226@example.com,2021-02-21,India,Corporate,507.23,True
+1228,Chen Garcia,user227@example.com,2021-11-01,India,Corporate,747.33,True
+1229,Fatima Singh,user228@example.com,2022-08-29,Canada,Corporate,402.8,True
+1230,Omar Ahmed,user229@example.com,2021-11-14,USA,Retail,450.42,True
+1231,Chen Garcia,user230@example.com,2021-07-18,UK,Retail,141.91,False
+1232,Liam Khan,user231@example.com,2025-01-07,USA,Retail,448.76,True
+1233,Noor Lee,user232@example.com,2024-07-27,Canada,Retail,672.77,True
+1234,Maria Ahmed,user233@example.com,2022-10-14,Pakistan,Corporate,559.81,True
+1235,Liam Smith,user234@example.com,2021-11-19,Canada,Retail,713.51,False
+1236,Priya Lee,user235@example.com,2021-09-30,Canada,Retail,1656.74,True
+1237,Priya Wang,user236@example.com,2024-10-05,Pakistan,Retail,1029.64,True
+1238,Priya Khan,,2022-05-13,Brazil,Retail,433.24,True
+1239,John Khan,user238@example.com,2021-01-19,Japan,Corporate,124.99,True
+1240,Noor Wang,user239@example.com,2022-08-20,USA,Retail,221.41,False
+1241,John Garcia,user240@example.com,2022-11-13,Japan,Small Business,323.88,True
+1242,Liam Ahmed,user241@example.com,2023-07-24,UK,Corporate,519.23,True
+1243,Chen Brown,user242@example.com,2022-05-24,UK,Small Business,250.05,True
+1244,Maria Smith,user243@example.com,2024-10-16,Canada,Corporate,158.26,False
+1245,Fatima Wang,user244@example.com,2023-08-24,USA,Corporate,122.95,True
+1246,Maria Garcia,user245@example.com,2025-01-19,India,Corporate,77.39,True
+1247,Amira Ahmed,user246@example.com,2022-07-05,UK,Retail,318.95,False
+1248,Amira Ahmed,user247@example.com,2023-09-05,Pakistan,Retail,92.79,True
+1249,Taha Smith,user248@example.com,2022-07-03,Brazil,Retail,148.34,False
+1250,John Khan,user249@example.com,2023-11-16,Japan,Retail,272.08,False
+1251,Priya Garcia,user250@example.com,2024-01-24,UK,Retail,106.07,True
+1252,Emma Rossi,user251@example.com,2022-04-28,Canada,Small Business,589.78,True
+1253,Emma Singh,user252@example.com,2024-11-07,Pakistan,Retail,845.75,True
+1254,Sana Garcia,user253@example.com,2024-07-09,Pakistan,Retail,232.89,False
+1255,Omar Wang,user254@example.com,2024-09-03,Germany,Corporate,260.6,True
+1256,Ali Wang,user255@example.com,2021-11-23,Japan,Retail,690.51,True
+1257,Emma Singh,user256@example.com,2023-12-13,Pakistan,Small Business,197.55,True
+1258,Fatima Smith,user257@example.com,2021-06-09,USA,Retail,184.43,True
+1259,John Smith,user258@example.com,2021-06-08,Japan,Small Business,1334.75,True
+1260,Fatima Garcia,user259@example.com,2024-12-30,Japan,Corporate,976.71,True
+1261,Ravi Khan,user260@example.com,2021-08-18,India,Retail,736.24,False
+1262,John Garcia,user261@example.com,2024-07-20,Canada,Retail,1018.05,True
+1263,Taha Singh,user262@example.com,2022-10-09,Brazil,Retail,55.85,False
+1264,Noor Rossi,,2022-04-01,Canada,Retail,1562.18,True
+1265,Amira Ahmed,user264@example.com,2021-04-21,Pakistan,Retail,597.09,False
+1266,Yusuf Patel,user265@example.com,2023-10-10,Japan,Small Business,1108.52,True
+1267,Noor Garcia,user266@example.com,2023-12-18,Brazil,Retail,594.17,True
+1268,Chen Patel,user267@example.com,2022-12-02,Canada,Corporate,423.66,True
+1269,John Wang,user268@example.com,2024-04-29,UK,Retail,306.34,True
+1270,Omar Khan,user269@example.com,2022-04-30,Pakistan,Small Business,582.39,True
+1271,Sana Singh,user270@example.com,2023-04-08,Germany,Retail,295.38,False
+1272,Amira Rossi,user271@example.com,2022-03-07,India,Retail,960.91,True
+1273,Liam Brown,user272@example.com,2023-05-24,Canada,Retail,82.56,True
+1274,Yusuf Brown,user273@example.com,2021-07-24,Germany,Retail,234.73,False
+1275,John Wang,user274@example.com,2022-12-16,USA,Corporate,3117.61,True
+1276,Maria Garcia,user275@example.com,2023-04-04,Canada,Retail,215.71,True
+1277,Noor Ahmed,user276@example.com,2023-04-15,Germany,Retail,317.77,False
+1278,Noor Wang,user277@example.com,2022-11-01,UK,Retail,166.9,True
+1279,John Khan,user278@example.com,2023-08-24,Canada,Corporate,564.45,False
+1280,Noor Singh,user279@example.com,2023-02-08,Germany,Retail,193.2,False
+1281,Noor Patel,user280@example.com,2022-03-01,USA,Retail,335.09,True
+1282,Liam Patel,,2021-11-20,Germany,Retail,942.81,True
+1283,Fatima Garcia,user282@example.com,2023-08-30,India,Retail,200.58,True
+1284,Maria Rossi,user283@example.com,2024-11-08,Pakistan,Retail,887.68,True
+1285,Liam Ahmed,user284@example.com,2024-02-04,Germany,Small Business,918.03,True
+1286,Emma Ahmed,user285@example.com,2023-08-16,USA,Retail,1158.59,True
+1287,Amira Ahmed,user286@example.com,2024-10-14,USA,Corporate,464.3,True
+1288,Fatima Brown,user287@example.com,2024-09-11,Pakistan,Retail,10314.02,True
+1289,Priya Rossi,user288@example.com,2023-01-30,Japan,Retail,1158.1,True
+1290,Yusuf Smith,user289@example.com,2021-06-13,USA,Retail,558.29,True
+1291,Sana Rossi,user290@example.com,2023-08-10,Brazil,Retail,168.02,True
+1292,Yusuf Smith,user291@example.com,2023-07-24,USA,Retail,366.11,False
+1293,Ali Brown,user292@example.com,2022-02-21,Pakistan,Retail,1679.63,True
+1294,Sana Khan,user293@example.com,2024-06-28,Pakistan,Retail,2229.5,True
+1295,Priya Patel,user294@example.com,2024-07-28,Pakistan,Small Business,1769.28,True
+1296,Sana Brown,user295@example.com,2022-05-12,USA,Retail,884.65,True
+1297,Fatima Wang,user296@example.com,2022-12-17,Brazil,Retail,114.93,True
+1298,Yusuf Smith,user297@example.com,2021-10-20,India,Retail,656.66,False
+1299,Liam Singh,user298@example.com,2021-09-25,Brazil,Retail,116.58,True
+1300,Ravi Rossi,user299@example.com,2022-02-02,Germany,Corporate,91.15,True
